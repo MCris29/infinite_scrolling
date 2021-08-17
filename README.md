@@ -1,7 +1,7 @@
 
 # Infinite Scrolling
 
-## Trabajo en grupo
+### Trabajo en grupo
 ### Integrantes:
 #### • Cristian Mañay
 #### • Patricio Betancourt
