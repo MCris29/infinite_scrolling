@@ -1,6 +1,11 @@
 
 # Infinite Scrolling
 
+##Trabajo en grupo
+### Integrantes:
+#### • Cristian Mañay
+#### • Patricio Betancourt
+
 App en flutter con scroll infinito de palabras aleatorias
 
 
